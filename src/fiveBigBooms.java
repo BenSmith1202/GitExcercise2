@@ -6,7 +6,7 @@ public class fiveBigBooms {
             for (int j = 0; j < (Math.pow(3, i)); j++) {
                 System.out.print("O");
             }
-            System.out.println("M!");
+            System.out.println("M!!!");
         }
     }
 }
